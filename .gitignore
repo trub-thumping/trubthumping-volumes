@@ -1,0 +1,4 @@
+ghost/content/images/*
+!ghost/content/images/.gitkeep
+ghost/images/*
+!ghost/images/.gitkeep
